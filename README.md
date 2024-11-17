@@ -21,7 +21,7 @@ Front end
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="70" height="70"/>
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="70" height="70"/>
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="70" height="70"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" alt="React" width="60" height="55"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" alt="React" width="60" height="60"/>
 </div>
 
 

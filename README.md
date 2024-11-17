@@ -4,7 +4,7 @@
 Presently is a powerful and user-friendly web application built with React, designed to simplify the process of creating and delivering professional presentations. Whether you're a student, educator, or business professional, Presently offers an intuitive interface that allows you to bring your ideas to life with visually compelling slides.
 
 <h3>Project Type</h3> 
-Full Stack
+Front end
 
 # Features
 **User Interface:-** A clean and intuitive interface for creating and editing slides.A library of pre-designed templates and slide layouts.<br><br>
@@ -21,14 +21,14 @@ Full Stack
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="70" height="70"/>
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="70" height="70"/>
   <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="70" height="70"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" alt="React" width="60" height="60"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" alt="React" width="60" height="55"/>
 </div>
 
 
 
 ## Directory Structure
 ```
-deploy/
+Digital_Nomads_014/
 ├── node_modules/                 
 ├── public/
 │   ├── logos/
@@ -108,7 +108,7 @@ deploy/
 2. Navigate to the project directory:
 
 ```bash
-cd deploy
+cd Digital_Nomads_014
 ```
 3. Install node modules:
 

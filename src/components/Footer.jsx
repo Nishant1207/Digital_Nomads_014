@@ -18,7 +18,6 @@ const Footer = () => {
               <li><a href="#">How It Works</a></li>
               <li><a href="#">For Teams</a></li>
               <li><a href="#">Email Us</a></li>
-              <li><a href="#">Pricing</a></li>
               <li><a href="#">Templates</a></li>
             </ul>
           </div>
@@ -29,8 +28,6 @@ const Footer = () => {
               <li><a href="#">Help Center</a></li>
               <li><a href="#">Productivity Methods</a></li>
               <li><a href="#">Integrations</a></li>
-              <li><a href="#">Vouchers</a></li>
-              <li><a href="#">Channel Partners</a></li>
               <li><a href="#">Developer API</a></li>
               <li><a href="#">Status</a></li>
             </ul>
@@ -42,7 +39,6 @@ const Footer = () => {
               <li><a href="#">Careers</a></li>
               <li><a href="#">Investor Relations</a></li>
               <li><a href="#">Inspiration Hub</a></li>
-              <li><a href="#">Press</a></li>
               <li><a href="#">Twist</a></li>
             </ul>
           </div>
